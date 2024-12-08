@@ -21,5 +21,5 @@ Além disso, você pode visualizar a regra CSS gerada automaticamente e copiá-l
 
 ## 🛠️ Como utilizar
 
-1. Acesse esse link :
+1. Acesse esse link : https://gerador-box-shadow-kappa.vercel.app/
 
